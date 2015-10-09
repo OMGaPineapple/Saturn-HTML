@@ -53,6 +53,7 @@ p{
    font-size: 26px;
 }
 nav a, nav a:link, nav a:visited{
+    font-family: 'Helvetica Neue', Calibri, Verdana, sans-serif;
     color: gold;
     text-decoration: none;
     padding: 10px 0 10px 0;
